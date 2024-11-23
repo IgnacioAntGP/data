@@ -44,7 +44,17 @@
       "descripcion": "Insertar una descripción..."
     }
   ],
-  "justificaciones": [],
+  "justificaciones": [
+    {
+      "id":"1",
+      "alumno":"benjamin",
+      "asignatura":"Programación De Aplicaciones Móviles",
+      "docente":"Viviana Poblete",
+      "descripcion":"me enferme",
+      "imagen":"",
+      "fecha":""
+    }
+  ],
   "asistencias": [
     {
       "id": "e9ac",
@@ -71,6 +81,34 @@
       "id": "3",
       "nombre": "Desarrollo Orientado a Objetos",
       "url": "assets/asignaturas/devObjetos.jpg"
+    }
+  ],
+  "docente": [
+    {
+      "id": "1",
+      "rut_docente": "155215486",
+      "nombre": "Viviana Poblete",
+      "username": "vivita",
+      "password": "viviana1234",
+      "email": "viviana@gmail.com",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "rut_docente": "142552365",
+      "nombre": "Alex Aguilera1",
+      "username": "alexito",
+      "password": "alex1234",
+      "email": "alex@gmail.com",
+      "isactive": true
+    },
+    {
+      "id": "cb7c",
+      "username": "benjamin",
+      "nombre": "benjita",
+      "email": "benja@gmail.com",
+      "password": "benja1234",
+      "isactive": true
     }
   ]
 }
